@@ -1,5 +1,5 @@
 # weather_data_visualizer_fixed.py
-# Fixed version: creates a sample CSV if 'weather.csv' is missing
+
 # Shivansh Dahiya (fixed)
 
 import os
