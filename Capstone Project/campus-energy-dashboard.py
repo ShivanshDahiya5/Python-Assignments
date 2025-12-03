@@ -1,6 +1,6 @@
 # ------------------------------------------------------------
 # Capstone Project – Campus Energy Use Dashboard
-# Fully Fixed & Working Version
+
 # Shivansh Dahiya
 # ------------------------------------------------------------
 
